@@ -15,7 +15,7 @@ Hello, I'm Ibrahim! I developed a deep passion for programming while working in 
 
 ###
 
-<p align="left">I am a full-stack software engineer bootcamp graduate.</p>
+<p align="left">I'm a full-stack software engineer</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
