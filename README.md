@@ -13,9 +13,6 @@ Hello, I'm Ibrahim! I developed a deep passion for programming while working in 
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="left">Welcome</h1>
-
 ###
 
 <p align="left">I am a full-stack software engineer bootcamp graduate.</p>
